@@ -1,13 +1,9 @@
-# fp-dataset-artifacts
-
-Project by Kaj Bostrom, Jifan Chen, and Greg Durrett. Code by Kaj Bostrom and Jifan Chen.
-
 ## Getting Started
 You'll need Python >= 3.6 to run the code in this repo.
 
 First, clone the repository:
 
-`git clone git@github.com:gregdurrett/fp-dataset-artifacts.git`
+`git clone https://github.com/dipanjan18/nlp-final-project.git`
 
 Then install the dependencies:
 
@@ -70,3 +66,4 @@ This command looks slightly different if you're not using `bash` on Linux. The [
 Once you've activated your virtual environment, you can use `pip` to install packages the way you normally would, but the installed
 packages will stay in the virtual environment instead of your global Python installation. Only the virtual environment's Python
 executable will be able to see these packages.
+
